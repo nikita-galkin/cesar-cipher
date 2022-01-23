@@ -1,0 +1,6 @@
+﻿  CesarCipher.c
+C:\Users\vipni\source\repos\CesarCipher\CesarCipher\CesarCipher.c(95,29): warning C4047: =: "int" отличается по уровням косвенного обращения от "char *"
+C:\Users\vipni\source\repos\CesarCipher\CesarCipher\CesarCipher.c(96,17): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\vipni\source\repos\CesarCipher\CesarCipher\CesarCipher.c(174,29): warning C4047: =: "int" отличается по уровням косвенного обращения от "char *"
+C:\Users\vipni\source\repos\CesarCipher\CesarCipher\CesarCipher.c(175,17): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+  CesarCipher.vcxproj -> C:\Users\vipni\source\repos\CesarCipher\Debug\CesarCipher.exe
